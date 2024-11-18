@@ -1,31 +1,34 @@
 // @ts-check
 import { makePgService } from "@dataplan/pg/adaptors/pg";
-import AmberPreset from "postgraphile/presets/amber";
+import { PostGraphileAmberPreset } from "postgraphile/presets/amber";
 import { makeV4Preset } from "postgraphile/presets/v4";
 import { PostGraphileConnectionFilterPreset } from "postgraphile-plugin-connection-filter";
 import { PgAggregatesPreset } from "@graphile/pg-aggregates";
 import { PgManyToManyPreset } from "@graphile-contrib/pg-many-to-many";
 // import { PgSimplifyInflectionPreset } from "@graphile/simplify-inflection";
-import PersistedPlugin from "@grafserv/persisted";
 import { PgOmitArchivedPlugin } from "@graphile-contrib/pg-omit-archived";
+import ListPlugin from "./modules/list/list-plugin.mjs";
 
 // For configuration file details, see: https://postgraphile.org/postgraphile/next/config
 
 /** @satisfies {GraphileConfig.Preset} */
 const preset = {
   extends: [
-    AmberPreset.default ?? AmberPreset,
+    // PostGraphileAmberPreset,
     makeV4Preset({
       /* Enter your V4 options here */
-      graphiql: true,
-      graphiqlRoute: "/",
+      // graphiql: true,
+      // graphiqlRoute: "/",
+      appendPlugins: [
+        ListPlugin,
+      ]
     }),
-    PostGraphileConnectionFilterPreset,
-    PgManyToManyPreset,
-    PgAggregatesPreset,
+    // PostGraphileConnectionFilterPreset,
+    // PgManyToManyPreset,
+    // PgAggregatesPreset,
     // PgSimplifyInflectionPreset
   ],
-  plugins: [PersistedPlugin.default, PgOmitArchivedPlugin],
+  // plugins: [PgOmitArchivedPlugin],
   pgServices: [
     makePgService({
       // Database connection string:
@@ -39,7 +42,7 @@ const preset = {
   grafserv: {
     port: 5678,
     websockets: true,
-    allowUnpersistedOperation: true,
+    // allowUnpersistedOperation: true,
   },
   grafast: {
     explain: true,

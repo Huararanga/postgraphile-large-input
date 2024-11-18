@@ -1,0 +1,5143 @@
+{
+  "input": {
+      "listName": "REASON_REMOVE",
+      "moveItems": [
+          {
+              "id": 852,
+              "orderNumber": 1,
+              "name": "snížený hemoglobin",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 915,
+              "orderNumber": 2,
+              "name": "Chylozita.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 926,
+              "orderNumber": 3,
+              "name": "Snížený hemoglobin",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 972,
+              "orderNumber": 4,
+              "name": "Adresa trv. bydliště je v seznamu nepovolených.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 853,
+              "orderNumber": 5,
+              "name": "zvýšený hemoglobin",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 867,
+              "orderNumber": 6,
+              "name": "pozit.HBsAg",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 925,
+              "orderNumber": 7,
+              "name": "Zvýšený hemoglobin",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 951,
+              "orderNumber": 8,
+              "name": "Pozit. HBsAg",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 973,
+              "orderNumber": 9,
+              "name": "Anémie nejasné etiologie.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 998,
+              "orderNumber": 10,
+              "name": "Hraniční či podhraniční hemoglobin.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 854,
+              "orderNumber": 11,
+              "name": "snížené leukocyty",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 868,
+              "orderNumber": 12,
+              "name": "pozit.HCV",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 922,
+              "orderNumber": 13,
+              "name": "Krevní obraz.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 924,
+              "orderNumber": 14,
+              "name": "Snížené leukocyty",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 927,
+              "orderNumber": 15,
+              "name": "pozit.HCV",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 974,
+              "orderNumber": 16,
+              "name": "Čerstvá řezná rána či odřenina.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 855,
+              "orderNumber": 17,
+              "name": "zvýšené leukocyty",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 869,
+              "orderNumber": 18,
+              "name": "pozit.HIV",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 916,
+              "orderNumber": 19,
+              "name": "Nevolnost - citrátový efekt.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 928,
+              "orderNumber": 20,
+              "name": "Zvýšené leukocyty",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 952,
+              "orderNumber": 21,
+              "name": "pozit.HIV",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 975,
+              "orderNumber": 22,
+              "name": "Hematom.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 856,
+              "orderNumber": 23,
+              "name": "snížené trombocyty",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 870,
+              "orderNumber": 24,
+              "name": "pozit.TPHA",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 917,
+              "orderNumber": 25,
+              "name": "Nevolnost - kolaps.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 929,
+              "orderNumber": 26,
+              "name": "Snížené trombocyty",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 953,
+              "orderNumber": 27,
+              "name": "pozit.TPHA",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 976,
+              "orderNumber": 28,
+              "name": "Ikterická plazma.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 857,
+              "orderNumber": 29,
+              "name": "zvýšené trombocyty",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 889,
+              "orderNumber": 30,
+              "name": "reakt.HBsAg",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 918,
+              "orderNumber": 31,
+              "name": "Nevolnost - vazovagální synkopa.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 932,
+              "orderNumber": 32,
+              "name": "Zvýšené trombocyty",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 954,
+              "orderNumber": 33,
+              "name": "reakt.HBsAg",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 977,
+              "orderNumber": 34,
+              "name": "Jiné.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 881,
+              "orderNumber": 35,
+              "name": "snížený hematokrit",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 888,
+              "orderNumber": 36,
+              "name": "reakt.HCV",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 910,
+              "orderNumber": 37,
+              "name": "Pozitivní ALT.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 955,
+              "orderNumber": 38,
+              "name": "reakt.HCV",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 960,
+              "orderNumber": 39,
+              "name": "snížený hematokrit",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 978,
+              "orderNumber": 40,
+              "name": "Kožní nález.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 882,
+              "orderNumber": 41,
+              "name": "zvýšený hematokrit",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 890,
+              "orderNumber": 42,
+              "name": "reakt.HIV",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 911,
+              "orderNumber": 43,
+              "name": "Pozitivní HBsAg.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 930,
+              "orderNumber": 44,
+              "name": "zvýšený hematokrit",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 956,
+              "orderNumber": 45,
+              "name": "reakt.HIV",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 979,
+              "orderNumber": 46,
+              "name": "Méně než 1 měsíc po skončení laktace.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 912,
+              "orderNumber": 47,
+              "name": "Pozitivní HCV.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 980,
+              "orderNumber": 48,
+              "name": "Méně než 6 měsíců po operaci.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 872,
+              "orderNumber": 49,
+              "name": "nevolnost - citrátový efekt",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 913,
+              "orderNumber": 50,
+              "name": "Pozitivní HIV.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 981,
+              "orderNumber": 51,
+              "name": "Méně než 6 měsíců po porodu, spont. potratu, UUT.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1022,
+              "orderNumber": 52,
+              "name": "Nevolnost - citrátová reakce",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 874,
+              "orderNumber": 53,
+              "name": "nevolnost - vasovagální synkopa",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 914,
+              "orderNumber": 54,
+              "name": "Pozitivní TPHA.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 957,
+              "orderNumber": 55,
+              "name": "Nevolnost - vasovagální synkopa",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 982,
+              "orderNumber": 56,
+              "name": "Nízká hmotnost.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 858,
+              "orderNumber": 57,
+              "name": "snížený tlak",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 873,
+              "orderNumber": 58,
+              "name": "nevolnost - kolaps",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 959,
+              "orderNumber": 59,
+              "name": "Nevolnost - hypovolemický kolaps",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 971,
+              "orderNumber": 60,
+              "name": "Prasklá žíla s neprovedeným návratem.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 983,
+              "orderNumber": 61,
+              "name": "Očkování.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1025,
+              "orderNumber": 62,
+              "name": "Snížený krevní tlak",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 859,
+              "orderNumber": 63,
+              "name": "zvýšený tlak",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 934,
+              "orderNumber": 64,
+              "name": "Zvýšený krevní tlak",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 969,
+              "orderNumber": 65,
+              "name": "Reaktivní HBsAg.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 984,
+              "orderNumber": 66,
+              "name": "Požadujeme dodání lékařské zprávy.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 860,
+              "orderNumber": 67,
+              "name": "zvýšená teplota",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 878,
+              "orderNumber": 68,
+              "name": "krevní obraz",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 931,
+              "orderNumber": 69,
+              "name": "Zvýšená teplota",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 962,
+              "orderNumber": 70,
+              "name": "KO mimo normu",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 968,
+              "orderNumber": 71,
+              "name": "Reaktivní HCV.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 985,
+              "orderNumber": 72,
+              "name": "Pracovní neschopnost.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 861,
+              "orderNumber": 73,
+              "name": "herpes",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 933,
+              "orderNumber": 74,
+              "name": "Herpes labialis",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 970,
+              "orderNumber": 75,
+              "name": "Reaktivní HIV.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 986,
+              "orderNumber": 76,
+              "name": "Prasklá žíla s neprovedeným návratem.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 862,
+              "orderNumber": 77,
+              "name": "akutně probíhající onemocnění HDC",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 987,
+              "orderNumber": 78,
+              "name": "Probíhající menstruace.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 997,
+              "orderNumber": 79,
+              "name": "Snížená celková bílkovina.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1021,
+              "orderNumber": 80,
+              "name": "Akutně probíhající onemocnění HDC",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 863,
+              "orderNumber": 81,
+              "name": "alergie",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 937,
+              "orderNumber": 82,
+              "name": "Alergie",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 988,
+              "orderNumber": 83,
+              "name": "Probíhající onemocnění HCD.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 996,
+              "orderNumber": 84,
+              "name": "Snížené IgG.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 864,
+              "orderNumber": 85,
+              "name": "menses",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 942,
+              "orderNumber": 86,
+              "name": "Menses",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 989,
+              "orderNumber": 87,
+              "name": "Probíhající onemocnění nespecifikované.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 876,
+              "orderNumber": 88,
+              "name": "špatný stav žil",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 939,
+              "orderNumber": 89,
+              "name": "Stav žil (hematom, stopy po vpichu)",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 990,
+              "orderNumber": 90,
+              "name": "Psoriáza (lupénka) v místě vpichu.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 865,
+              "orderNumber": 91,
+              "name": "stav pod vlivem návykových látek",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 940,
+              "orderNumber": 92,
+              "name": "Stav pod vlivem návykových látek",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 991,
+              "orderNumber": 93,
+              "name": "Snížené leukocyty.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 879,
+              "orderNumber": 94,
+              "name": "kožní nález",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 941,
+              "orderNumber": 95,
+              "name": "Kožní nález",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 992,
+              "orderNumber": 96,
+              "name": "Snížené trombocyty.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 880,
+              "orderNumber": 97,
+              "name": "očkování",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 943,
+              "orderNumber": 98,
+              "name": "Očkování",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 993,
+              "orderNumber": 99,
+              "name": "Snížený hematokrit.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 994,
+              "orderNumber": 100,
+              "name": "Snížený hemoglobin.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 887,
+              "orderNumber": 101,
+              "name": "hospitalizace",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 949,
+              "orderNumber": 102,
+              "name": "celková anestezie",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 995,
+              "orderNumber": 103,
+              "name": "Snížený tlak krevní.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 999,
+              "orderNumber": 104,
+              "name": "Stav pod vlivem návykových látek.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1000,
+              "orderNumber": 105,
+              "name": "Zaměstnanec Cara Plasma - jen vzorky na sérologii.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1001,
+              "orderNumber": 106,
+              "name": "Závažné porušení dietního režimu.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1002,
+              "orderNumber": 107,
+              "name": "Zvýšená teplota.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1003,
+              "orderNumber": 108,
+              "name": "Zvýšené leukocyty.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1004,
+              "orderNumber": 109,
+              "name": "Zvýšené trombocyty.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1005,
+              "orderNumber": 110,
+              "name": "Zvýšený hematokrit.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1006,
+              "orderNumber": 111,
+              "name": "Zvýšený tlak krevní.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 896,
+              "orderNumber": 112,
+              "name": "znížený hemoglobín",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 897,
+              "orderNumber": 113,
+              "name": "zvýšený hemoglobín",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 898,
+              "orderNumber": 114,
+              "name": "znížené leukocyty",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 899,
+              "orderNumber": 115,
+              "name": "zvýšené leukocyty",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 900,
+              "orderNumber": 116,
+              "name": "znížené trombocyty",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 901,
+              "orderNumber": 117,
+              "name": "zvýšené trombocyty",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 964,
+              "orderNumber": 118,
+              "name": "znížený hematokryt",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 965,
+              "orderNumber": 119,
+              "name": "zvýšený hematokryt",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 892,
+              "orderNumber": 120,
+              "name": "nedokončený návrat krve",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1023,
+              "orderNumber": 121,
+              "name": "Nedokončený návrat krve ze zvonu (nad 50 ml krve)",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 886,
+              "orderNumber": 122,
+              "name": "cestování mimo Evropu",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 893,
+              "orderNumber": 123,
+              "name": "chylozita",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 948,
+              "orderNumber": 124,
+              "name": "Cestování mimo Evropu",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 958,
+              "orderNumber": 125,
+              "name": "Chylozita",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 866,
+              "orderNumber": 126,
+              "name": "st.p.operaci",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 871,
+              "orderNumber": 127,
+              "name": "jiné",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 877,
+              "orderNumber": 128,
+              "name": "hematom",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 883,
+              "orderNumber": 129,
+              "name": "závažné porušení dietního režimu",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 884,
+              "orderNumber": 130,
+              "name": "ikterická plasma",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 885,
+              "orderNumber": 131,
+              "name": "pouze vzorky - zaměstnanec Caraplasmy",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 891,
+              "orderNumber": 132,
+              "name": "pracovní neschopnost",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 894,
+              "orderNumber": 133,
+              "name": "jiné",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 935,
+              "orderNumber": 134,
+              "name": "hematom",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 936,
+              "orderNumber": 135,
+              "name": "Jiné",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 944,
+              "orderNumber": 136,
+              "name": "Jiné",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 945,
+              "orderNumber": 137,
+              "name": "Vzorky - zaměstnanec Caraplasmy",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 946,
+              "orderNumber": 138,
+              "name": "St. p. operaci, celková anestezie",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 947,
+              "orderNumber": 139,
+              "name": "Dočasná pracovní neschopnost",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 950,
+              "orderNumber": 140,
+              "name": "Závažné porušení dietního režimu",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 961,
+              "orderNumber": 141,
+              "name": "Ikterická plazma",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 966,
+              "orderNumber": 142,
+              "name": "chylozita",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 895,
+              "orderNumber": 143,
+              "name": "požadujeme dodání lékařské zprávy",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 902,
+              "orderNumber": 144,
+              "name": "znížený tlak",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 938,
+              "orderNumber": 145,
+              "name": "Požadujeme dodání lékařské zprávy",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 903,
+              "orderNumber": 146,
+              "name": "zvýšený tlak",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 904,
+              "orderNumber": 147,
+              "name": "zvýšená teplota",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 905,
+              "orderNumber": 148,
+              "name": "herpes",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 906,
+              "orderNumber": 149,
+              "name": "ochorenie HDC",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 907,
+              "orderNumber": 150,
+              "name": "Alergie.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 908,
+              "orderNumber": 151,
+              "name": "menzes",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 920,
+              "orderNumber": 152,
+              "name": "Stav žil nevyhovující pro dárcovství.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 909,
+              "orderNumber": 153,
+              "name": "vplyv omamných látok",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 923,
+              "orderNumber": 154,
+              "name": "kožný nález",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 963,
+              "orderNumber": 155,
+              "name": "očkovanie",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 967,
+              "orderNumber": 156,
+              "name": "hospitalizácia",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 921,
+              "orderNumber": 157,
+              "name": "Technická závada s neprovedeným návratem.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 851,
+              "orderNumber": 158,
+              "name": "iné",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 875,
+              "orderNumber": 159,
+              "name": "iné",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 919,
+              "orderNumber": 160,
+              "name": "iné",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 708,
+              "orderNumber": 161,
+              "name": "iné",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 709,
+              "orderNumber": 162,
+              "name": "snížený hemoglobin",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 710,
+              "orderNumber": 163,
+              "name": "zvýšený hemoglobin",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 711,
+              "orderNumber": 164,
+              "name": "snížené leukocyty",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 712,
+              "orderNumber": 165,
+              "name": "zvýšené leukocyty",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 713,
+              "orderNumber": 166,
+              "name": "snížené trombocyty",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 714,
+              "orderNumber": 167,
+              "name": "zvýšené trombocyty",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 715,
+              "orderNumber": 168,
+              "name": "snížený tlak",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 716,
+              "orderNumber": 169,
+              "name": "zvýšený tlak",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 717,
+              "orderNumber": 170,
+              "name": "zvýšená teplota",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 718,
+              "orderNumber": 171,
+              "name": "herpes",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 719,
+              "orderNumber": 172,
+              "name": "akutně probíhající onemocnění HDC",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 720,
+              "orderNumber": 173,
+              "name": "alergie",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 721,
+              "orderNumber": 174,
+              "name": "menses",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 722,
+              "orderNumber": 175,
+              "name": "stav pod vlivem návykových látek",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 723,
+              "orderNumber": 176,
+              "name": "st.p.operaci",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 724,
+              "orderNumber": 177,
+              "name": "pozit.HBsAg",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 725,
+              "orderNumber": 178,
+              "name": "pozit.HCV",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 726,
+              "orderNumber": 179,
+              "name": "pozit.HIV",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 727,
+              "orderNumber": 180,
+              "name": "pozit.TPHA",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 728,
+              "orderNumber": 181,
+              "name": "jiné",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 729,
+              "orderNumber": 182,
+              "name": "nevolnost - citrátový efekt",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 730,
+              "orderNumber": 183,
+              "name": "nevolnost - kolaps",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 731,
+              "orderNumber": 184,
+              "name": "nevolnost - vasovagální synkopa",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 732,
+              "orderNumber": 185,
+              "name": "iné",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 733,
+              "orderNumber": 186,
+              "name": "špatný stav žil",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 734,
+              "orderNumber": 187,
+              "name": "hematom",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 735,
+              "orderNumber": 188,
+              "name": "krevní obraz",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 736,
+              "orderNumber": 189,
+              "name": "kožní nález",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 737,
+              "orderNumber": 190,
+              "name": "očkování",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 738,
+              "orderNumber": 191,
+              "name": "snížený hematokrit",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 739,
+              "orderNumber": 192,
+              "name": "zvýšený hematokrit",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 740,
+              "orderNumber": 193,
+              "name": "závažné porušení dietního režimu",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 741,
+              "orderNumber": 194,
+              "name": "ikterická plasma",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 742,
+              "orderNumber": 195,
+              "name": "pouze vzorky - zaměstnanec Caraplasmy",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 743,
+              "orderNumber": 196,
+              "name": "cestování mimo Evropu",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 744,
+              "orderNumber": 197,
+              "name": "hospitalizace",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 745,
+              "orderNumber": 198,
+              "name": "reakt.HCV",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 746,
+              "orderNumber": 199,
+              "name": "reakt.HBsAg",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 747,
+              "orderNumber": 200,
+              "name": "reakt.HIV",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 748,
+              "orderNumber": 201,
+              "name": "pracovní neschopnost",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 749,
+              "orderNumber": 202,
+              "name": "nedokončený návrat krve",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 750,
+              "orderNumber": 203,
+              "name": "chylozita",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 751,
+              "orderNumber": 204,
+              "name": "jiné",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 752,
+              "orderNumber": 205,
+              "name": "požadujeme dodání lékařské zprávy",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 753,
+              "orderNumber": 206,
+              "name": "očkování",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 754,
+              "orderNumber": 207,
+              "name": "snížený hematokryt",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 755,
+              "orderNumber": 208,
+              "name": "zvýšený hematokryt",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 756,
+              "orderNumber": 209,
+              "name": "hospitalizácia",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 757,
+              "orderNumber": 210,
+              "name": "Reaktivní HCV.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 758,
+              "orderNumber": 211,
+              "name": "Reaktivní HBsAg.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 759,
+              "orderNumber": 212,
+              "name": "Reaktivní HIV.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 760,
+              "orderNumber": 213,
+              "name": "Prasklá žíla s neprovedeným návratem.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 761,
+              "orderNumber": 214,
+              "name": "Adresa trv. bydliště je v seznamu nepovolených.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 762,
+              "orderNumber": 215,
+              "name": "Anémie nejasné etiologie.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 763,
+              "orderNumber": 216,
+              "name": "Čerstvá řezná rána či odřenina.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 764,
+              "orderNumber": 217,
+              "name": "Hematom.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 765,
+              "orderNumber": 218,
+              "name": "Ikterická plazma.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 766,
+              "orderNumber": 219,
+              "name": "Jiné.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 767,
+              "orderNumber": 220,
+              "name": "Kožní nález.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 768,
+              "orderNumber": 221,
+              "name": "Méně než 1 měsíc po skončení laktace.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 769,
+              "orderNumber": 222,
+              "name": "Méně než 6 měsíců po operaci.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 770,
+              "orderNumber": 223,
+              "name": "Méně než 6 měsíců po porodu, spont. potratu, UUT.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 771,
+              "orderNumber": 224,
+              "name": "Nízká hmotnost.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 772,
+              "orderNumber": 225,
+              "name": "Očkování.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 773,
+              "orderNumber": 226,
+              "name": "Požadujeme dodání lékařské zprávy.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 774,
+              "orderNumber": 227,
+              "name": "Pracovní neschopnost.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 775,
+              "orderNumber": 228,
+              "name": "Prasklá žíla s neprovedeným návratem.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 776,
+              "orderNumber": 229,
+              "name": "Probíhající menstruace.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 777,
+              "orderNumber": 230,
+              "name": "Probíhající onemocnění HCD.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 778,
+              "orderNumber": 231,
+              "name": "Probíhající onemocnění nespecifikované.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 779,
+              "orderNumber": 232,
+              "name": "Psoriáza (lupénka) v místě vpichu.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 780,
+              "orderNumber": 233,
+              "name": "Snížené leukocyty.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 781,
+              "orderNumber": 234,
+              "name": "Snížené trombocyty.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 782,
+              "orderNumber": 235,
+              "name": "Snížený hematokrit.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 783,
+              "orderNumber": 236,
+              "name": "Snížený hemoglobin.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 784,
+              "orderNumber": 237,
+              "name": "Snížený tlak krevní.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 785,
+              "orderNumber": 238,
+              "name": "Snížené IgG.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 786,
+              "orderNumber": 239,
+              "name": "Snížená celková bílkovina.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 787,
+              "orderNumber": 240,
+              "name": "Hraniční či podhraniční hemoglobin.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 788,
+              "orderNumber": 241,
+              "name": "Stav pod vlivem návykových látek.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 789,
+              "orderNumber": 242,
+              "name": "Zaměstnanec Cara Plasma - jen vzorky na sérologii.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 790,
+              "orderNumber": 243,
+              "name": "Závažné porušení dietního režimu.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 791,
+              "orderNumber": 244,
+              "name": "Zvýšená teplota.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 792,
+              "orderNumber": 245,
+              "name": "Zvýšené leukocyty.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 793,
+              "orderNumber": 246,
+              "name": "Zvýšené trombocyty.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 794,
+              "orderNumber": 247,
+              "name": "Zvýšený hematokrit.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 795,
+              "orderNumber": 248,
+              "name": "Zvýšený tlak krevní.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 796,
+              "orderNumber": 249,
+              "name": "Snížené leukocyty",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 797,
+              "orderNumber": 250,
+              "name": "Zvýšený hemoglobin",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 798,
+              "orderNumber": 251,
+              "name": "Snížený hemoglobin",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 799,
+              "orderNumber": 252,
+              "name": "pozit.HCV",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 800,
+              "orderNumber": 253,
+              "name": "Zvýšené leukocyty",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 801,
+              "orderNumber": 254,
+              "name": "Snížené trombocyty",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 802,
+              "orderNumber": 255,
+              "name": "zvýšený hematokrit",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 803,
+              "orderNumber": 256,
+              "name": "Zvýšené trombocyty",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 804,
+              "orderNumber": 257,
+              "name": "Zvýšený tlak",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 805,
+              "orderNumber": 258,
+              "name": "Očkování",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 806,
+              "orderNumber": 259,
+              "name": "Snížený hematokrit",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 807,
+              "orderNumber": 260,
+              "name": "Zvýšený hematokrit",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 808,
+              "orderNumber": 261,
+              "name": "Zvýšený tlak",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 809,
+              "orderNumber": 262,
+              "name": "Pracovní neschopnost",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 810,
+              "orderNumber": 263,
+              "name": "nízká hmotnost",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 811,
+              "orderNumber": 264,
+              "name": "stav pod vlivem návykových látek",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 812,
+              "orderNumber": 265,
+              "name": "závažné porušení dietního režimu",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 813,
+              "orderNumber": 266,
+              "name": "Probíhající menstruace",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 814,
+              "orderNumber": 267,
+              "name": "Zvýšená teplota",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 815,
+              "orderNumber": 268,
+              "name": "Snížený tlak krevní",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 816,
+              "orderNumber": 269,
+              "name": "Snížený hemoglobin",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 817,
+              "orderNumber": 270,
+              "name": "Zvýšené trombocyty",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 818,
+              "orderNumber": 271,
+              "name": "Stav pod vlivem návykových látek",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 819,
+              "orderNumber": 272,
+              "name": "Probíhající menstruace",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 820,
+              "orderNumber": 273,
+              "name": "Kožní nález",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 821,
+              "orderNumber": 274,
+              "name": "Stav pod vlivem návykových látek",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 822,
+              "orderNumber": 275,
+              "name": "menses",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 823,
+              "orderNumber": 276,
+              "name": "ikterická plasma",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 824,
+              "orderNumber": 277,
+              "name": "Adresa trv. bydliště je v seznamu nepovolených.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 825,
+              "orderNumber": 278,
+              "name": "nevolnost - kolaps",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 826,
+              "orderNumber": 279,
+              "name": "špatný stav žil",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 827,
+              "orderNumber": 280,
+              "name": "pozit.TPHA",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 828,
+              "orderNumber": 281,
+              "name": "iné",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 829,
+              "orderNumber": 282,
+              "name": "špatný stav žil",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 830,
+              "orderNumber": 283,
+              "name": "herpes",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 831,
+              "orderNumber": 284,
+              "name": "jiné",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 832,
+              "orderNumber": 285,
+              "name": "hematom",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 833,
+              "orderNumber": 286,
+              "name": "pozit.HIV",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 834,
+              "orderNumber": 287,
+              "name": "hospitalizácia",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 835,
+              "orderNumber": 288,
+              "name": "Prasklá žíla s neprovedeným návratem.",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 836,
+              "orderNumber": 289,
+              "name": "nízká hmotnost",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 837,
+              "orderNumber": 290,
+              "name": "menses",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 838,
+              "orderNumber": 291,
+              "name": "nízká hmotnost",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 839,
+              "orderNumber": 292,
+              "name": "herpes",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 840,
+              "orderNumber": 293,
+              "name": "nevolnost - kolaps",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 841,
+              "orderNumber": 294,
+              "name": "nevolnost - kolaps",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 842,
+              "orderNumber": 295,
+              "name": "alergie",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 843,
+              "orderNumber": 296,
+              "name": "stav pod vlivem návykových látek",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 844,
+              "orderNumber": 297,
+              "name": "menses",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 845,
+              "orderNumber": 298,
+              "name": "stav pod vlivem návykových látek",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 846,
+              "orderNumber": 299,
+              "name": "špatný stav žil",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 847,
+              "orderNumber": 300,
+              "name": "kožní nález",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 848,
+              "orderNumber": 301,
+              "name": "očkování",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 849,
+              "orderNumber": 302,
+              "name": "snížený tlak",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 850,
+              "orderNumber": 303,
+              "name": "ikterická plasma",
+              "isValid": false,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1020,
+              "orderNumber": 304,
+              "name": "Vzorky-virologie A2",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1019,
+              "orderNumber": 305,
+              "name": "Hmotnost (pod 50 kg nebo výrazně nad 130 kg)",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1018,
+              "orderNumber": 306,
+              "name": "Špatná hygiena",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1017,
+              "orderNumber": 307,
+              "name": "St. p. vyšetření flexibilním fibroskopem",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1012,
+              "orderNumber": 308,
+              "name": "Nízká hladina IgG",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1013,
+              "orderNumber": 309,
+              "name": "Nízká hladina celkové bílkoviny",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1015,
+              "orderNumber": 310,
+              "name": "Tetování, piercing, akupunktura",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1016,
+              "orderNumber": 311,
+              "name": "Registrace do IKEM",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1024,
+              "orderNumber": 312,
+              "name": "Tetování, piercing, akupunktura",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1026,
+              "orderNumber": 313,
+              "name": "Vysoký puls ( nad 100/min. )",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1027,
+              "orderNumber": 314,
+              "name": "Cestování mimo Evropu",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1028,
+              "orderNumber": 315,
+              "name": "Dočasná pracovní neschopnost",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1010,
+              "orderNumber": 316,
+              "name": "St.p. operaci, celková anestézie",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1007,
+              "orderNumber": 317,
+              "name": "Požadujeme dodání lékařské zprávy",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1008,
+              "orderNumber": 318,
+              "name": "St.p. vyšetření flexibilním fibroskopem",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1009,
+              "orderNumber": 319,
+              "name": "Očkování",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1011,
+              "orderNumber": 320,
+              "name": "KO mimo normu",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          },
+          {
+              "id": 1014,
+              "orderNumber": 321,
+              "name": "Pobyt v rizikové oblasti (malarická destinace)",
+              "isValid": true,
+              "additionalFields": [
+                  {
+                      "field": "category",
+                      "value": "3"
+                  },
+                  {
+                      "field": "excludeForDays",
+                      "value": ""
+                  }
+              ]
+          }
+      ]
+  }
+}

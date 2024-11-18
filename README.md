@@ -1,53 +1,28 @@
-# Ouch! My finger!
+# Large input issue
 
-**BLEEDING EDGE SOFTWARE** - be sure to read the production caveats at
-https://grafast.org/caveats/ and wear appropriate personal protective equipment
-to protect your fingers from the sharp edges!
-
-## Quickstart
+## How to reproduce
 
 Install dependencies:
 
-```
-yarn
-```
+1) run server with any db, tested "updateListByMovements" does not relay on db
 
-Run PostGraphile CLI and pass the connection string and schemas:
+yarn postgraphile -c postgres://...
 
-```
-yarn postgraphile -c postgres:///my_db -s app_public
-```
-
-(Replace `postgres:///my_db` with your connection string, and `app_public` with
-your database schema name.)
-
-## Usage
-
-In addition to the quick command line above, you can set your database
-connection string and schemas as environmental variables or edit the relevant
-arguments in the `makePgSources` call in `graphile.config.mjs`.
+2) Put this query into RURU
 
 ```
-# Different syntax may be required depending on your shell
-export DATABASE_URL=postgres:///my_db
-export DATABASE_SCHEMAS=app_public
+mutation UpdateDial($input: UpdateListByMovementsInput!) {
+    updateListByMovements(input: $input) {
+      __typename
+    }
+}
 ```
 
-Then run PostGraphile CLI with no arguments:
+3) use query-data.json contents as variables
 
-```
-yarn postgraphile
-```
+Current behavior:
+Unusable performance for first query. It takes about 1 minute, second is takes about 500ms. More or less same code was working in postgraphile V4 without any issues
 
-Or run the library mode using an Express server:
 
-```
-node server-express.mjs
-```
-
-## Configuration
-
-The configuration is in `graphile.config.mjs`, details on the configuration file
-can be read about here:
-
-https://postgraphile.org/postgraphile/next/config
+Expected behavior:
+- Faster responses, especially for first query
